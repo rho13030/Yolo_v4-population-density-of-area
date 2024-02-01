@@ -1,3 +1,7 @@
+# Link to google drive containing project files
+https://drive.google.com/drive/folders/1IJpbw21bp60xTjylECh9yQXxXiRFmijI?usp=sharing
+I uploaded my project files to google drive because I believe the file was too big, but mainly because I wasn't able to push "all" of the files--some of the critical files weren't pushed.
+
 # Yolo_v4-population-density-of-area
 This is an object detection project I did primarily seeking to improve social distancing during the COVID-19 pandemic. I used a pre-trained Yolo_v4 model for object detection. I programmed so that the program leaves a red mark at the place each person was in each frame. The intensity of the red mark whitens if there are overlaps, meaning either the area is densely populated with people or many people have walked passed that area.
 
